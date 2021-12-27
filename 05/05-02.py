@@ -1,4 +1,4 @@
-with open('05-02-sample.txt', 'r') as f:
+with open('05-02.txt', 'r') as f:
   content = f.readlines()
   print(f'Количество строк: {len(content)}')
 

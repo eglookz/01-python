@@ -1,4 +1,4 @@
-with open('05-03-employees.txt', 'r') as f:
+with open('05-03.txt', 'r') as f:
   avg = []
   poor = []
   employees = f.read().split('\n')
